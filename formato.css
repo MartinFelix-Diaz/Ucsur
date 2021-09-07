@@ -1,0 +1,53 @@
+*{
+    margin: inherit;
+    padding: inherit;
+}
+body{
+    background-color: red;
+    
+}
+#Container{
+    height:700%;
+    width:900px;
+    background-color: black;
+    margin: 0 auto;
+    font-size:xx-large;
+}
+#Header{
+    width:100%;
+    height:100px;
+    background:chartreuse;
+    font-size:xx-large;
+}
+#Menu{
+    width:100%;
+    height: 30px;
+    background-color:darkgoldenrod;
+    font-size:xx-large;
+}
+#Contenido{
+    width:100%;
+    height:500px;
+    background-color:greenyellow;
+    font-size:xx-large;
+}
+#Left{
+    width:50%;
+    height:100%;
+    background-color:lemonchiffon;
+    float:left;
+    font-size:xx-large;
+}
+#Right{
+   width:50%;
+   height:100%;
+   background-color:royalblue;
+   float:right;
+   font-size:xx-large;
+}
+#Footer{
+    width:100%;
+    height:50px;
+    background-color:cyan;
+    font-size:xx-large;
+}
